@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<!-- 🔥 Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Gaurav%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=CSE+Student;Full+Stack+Learner;AI+Enthusiast;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=CSE+Student;Full+Stack+Learner;AI+Enthusiast;Building+Real+Projects" />
 </p>
 
 ---
@@ -16,7 +18,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
 </p>
 
@@ -24,20 +26,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Projects
-- 🔹 Flowzen – Productivity / workflow-based project  
-- 🔹 Smart City Complaint Management System (Java + MySQL)  
+- 🔹 **Flowzen** – Productivity / workflow-based project  
+- 🔹 **Smart City Complaint Management System** – Java + MySQL  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/gaurav-soni-999756335/
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-soni-999756335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
