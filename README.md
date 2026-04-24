@@ -11,6 +11,11 @@
   </a>
 </p>
 
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav10806&label=Visitors&color=00F7FF&style=for-the-badge" />
+</p>
+
 <!-- 🔥 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=CSE+Student;Full+Stack+Learner;AI+Enthusiast;Building+Real+Projects" />
