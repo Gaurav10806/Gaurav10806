@@ -1,42 +1,52 @@
-# Gaurav Soni
+<!-- 🔥 Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Gaurav%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-Computer Science student (Sem 4) focused on building real-world applications and strengthening core development skills.
+<!-- 🔥 Contact Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-soni-999756335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav10806&label=Visitors&color=00F7FF&style=for-the-badge" />
+</p>
+
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=CSE+Student;Full+Stack+Learner;AI+Enthusiast;Building+Real+Projects" />
+</p>
 
 ---
 
-## 🧠 Focus
-- Building practical, project-driven applications  
-- Improving backend fundamentals and problem-solving  
-- Exploring real-world use cases of software systems  
+## 🚀 About Me
+- 🎓 2nd Year CSE Student (Sem 4)  
+- 💻 Passionate about building real-world projects  
+- 🤖 Interested in AI and practical applications  
+- 🚀 Built Flowzen & Smart City Complaint Management System  
+- 📈 Learning by building and experimenting  
 
 ---
 
-## ⚙️ Tech Stack
-- Languages: Java, JavaScript  
-- Frontend: HTML, CSS  
-- Database: MySQL  
-
----
-
-## 🚀 Projects
-
-### 🔹 Flowzen  
-Productivity / workflow-based application  
-- Designed to improve task flow and usability  
-- Built using HTML, CSS, JavaScript  
-
-### 🔹 Smart City Complaint Management System  
-System for managing and tracking city complaints  
-- Features: complaint tracking, user handling  
-- Built using Java and MySQL  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/gaurav-soni-999756335/  
-- Email: your-email@gmail.com
+## 🚀 Projects
+- 🔹 **Flowzen** – Productivity / workflow-based project  
+- 🔹 **Smart City Complaint Management System** – Java + MySQL  
