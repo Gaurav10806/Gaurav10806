@@ -48,5 +48,7 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Flowzen** – Productivity / workflow-based project  
-- 🔹 **Smart City Complaint Management System** – Java + MySQL  
+
+- 🔹 **DraftYard** – AI-powered collaborative platform using RAG, semantic search & Gemini AI
+- 🔹 **FlowZen** – Visual workflow automation platform with AI agents and workflow orchestration
+- 🔹 **Smart City Complaint Management System** – Java & MySQL-based civic complaint management system
