@@ -1,54 +1,87 @@
-<!-- 🔥 Gradient Banner -->
+<!-- 🌊 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Gaurav%20Soni&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-<!-- 🔥 Contact Buttons -->
+<!-- 📫 Contact -->
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-soni-999756335/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gaurav10806@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- 👀 Profile Views -->
+<!-- 👀 Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaurav10806&label=Visitors&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Gaurav10806&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- ⌨️ Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=CSE+Student;Full+Stack+Learner;AI+Enthusiast;Building+Real+Projects" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 2nd Year CSE Student (Sem 4)  
-- 💻 Passionate about building real-world projects  
-- 🤖 Interested in AI and practical applications  
-- 🚀 Built Flowzen & Smart City Complaint Management System  
-- 📈 Learning by building and experimenting  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer;Building+AI-Powered+Web+Applications;Open+to+Internships"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👋 About Me
+
+- 🎓 2nd Year Computer Science Engineering Student
+- 💻 Full-Stack Developer passionate about building real-world software
+- 🚀 Built **DraftYard** and **FlowZen**
+- 🌱 Currently learning scalable backend systems, system design, and AI integration
+- 📬 Open to **Software Development** and **AI/ML Internship** opportunities
+
+---
+
+# 🛠️ Tech Stack
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,ts,nodejs,express,mongodb,django,python,postgres,docker,java,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-## 🚀 Projects
+# 📊 GitHub Stats
 
-- **DraftYard** – AI-powered collaborative platform using RAG, semantic search & Gemini AI
-- **FlowZen** – Visual workflow automation platform with AI agents and workflow orchestration
-- **Smart City Complaint Management System** – Java & MySQL-based civic complaint management system
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav10806&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gaurav10806&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 DraftYard
+AI-powered collaborative platform for reviving unfinished software projects using **Hybrid Retrieval (RAG)**, **Sentence Transformers**, and **Semantic Search**.
+
+### 🔹 FlowZen
+Visual AI workflow automation platform featuring drag-and-drop workflows, AI agents, workflow orchestration, and real-time execution monitoring.
+
+### 🔹 Smart City Complaint Management System
+Java & MySQL-based civic complaint management system for managing and tracking public complaints.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-soni-999756335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
