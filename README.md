@@ -44,20 +44,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav10806&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Gaurav10806&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav10806&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gaurav10806&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav10806&layout=compact&theme=tokyonight" />
 </p>
 
 ---
