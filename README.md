@@ -44,12 +44,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav10806&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="170" src="https://streak-stats.demolab.com?user=Gaurav10806&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav10806&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav10806&theme=tokyonight" />
 </p>
 
 ---
